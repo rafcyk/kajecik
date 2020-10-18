@@ -1,0 +1,59 @@
+@media only screen and (max-width:991.98px){
+  html{
+    font-size: 9px;
+  }
+
+ .box{
+  width:80%;
+  flex-direction:column ;
+}
+
+.box:nth-child(2){
+  flex-direction: column;
+}
+
+.box-image img {
+  width: 75%;
+}
+
+}
+
+@media only screen and (max-width:767.98px){
+  html{
+    font-size: 8px;
+  }
+
+  .box{
+    width: 90%;
+  }
+
+  .box-image{
+    flex-basis: 200px;
+  }
+
+  .box-text a{
+    margin:25px auto 0;
+  }
+
+  nav .logo {
+    margin-left: 0;
+}
+
+nav{
+  padding: 10px 10px;
+}
+
+.navigation li a{
+  margin-right: 0;
+  display: block;
+  margin: 5px 0;
+}
+
+.poem-lyrics{
+  padding: 0 5px;
+}
+
+.navigation{
+  text-align: right;
+}
+}
