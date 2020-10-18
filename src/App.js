@@ -16,7 +16,7 @@ class App extends Component {
   }
 
   componentDidMount(){
-    fetch('http://localhost:1337/poems')
+    fetch('https://kajecik.herokuapp.com/poems')
     .then(res => res.json())
     .then(res => {
       
