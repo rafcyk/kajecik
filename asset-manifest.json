@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e199565f.chunk.css",
+    "main.js": "/static/js/main.aeef161a.chunk.js",
+    "main.js.map": "/static/js/main.aeef161a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.60e1856e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.60e1856e.js.map",
+    "static/js/2.1c43c54b.chunk.js": "/static/js/2.1c43c54b.chunk.js",
+    "static/js/2.1c43c54b.chunk.js.map": "/static/js/2.1c43c54b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8f5aea42b4dcf101ac219f81b7621334.js": "/precache-manifest.8f5aea42b4dcf101ac219f81b7621334.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e199565f.chunk.css.map": "/static/css/main.e199565f.chunk.css.map",
+    "static/js/2.1c43c54b.chunk.js.LICENSE.txt": "/static/js/2.1c43c54b.chunk.js.LICENSE.txt",
+    "static/media/media.jpg": "/static/media/media.185dd4a5.jpg",
+    "static/media/notebook.jpg": "/static/media/notebook.12eb9a32.jpg",
+    "static/media/style.css": "/static/media/poems-back.f0063e50.jpg",
+    "static/media/poems.jpg": "/static/media/poems.2b27534b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60e1856e.js",
+    "static/js/2.1c43c54b.chunk.js",
+    "static/css/main.e199565f.chunk.css",
+    "static/js/main.aeef161a.chunk.js"
+  ]
+}
